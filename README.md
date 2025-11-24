@@ -14,7 +14,7 @@ Full Stack Web Developer | Graphics Designer | Ai Enthusiast</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
@@ -39,9 +39,7 @@ Full Stack Web Developer | Graphics Designer | Ai Enthusiast</h2>
 
 
 
-###
-
-<br clear="both">
 
 
-###
+
+
