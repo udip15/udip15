@@ -1,103 +1,54 @@
-<div align="center">
 
-👋 Hi there! I'm Udip Sharma (udip15)
 
-Full Stack Web Developer | MERN Stack Specialist | Performance & Data-Driven Solutions
 
-I'm a dedicated Full Stack Developer with over 3 years of experience specializing in the MERN stack (MongoDB, Express.js, React, Node.js). My focus is on designing, developing, and deploying secure, scalable web applications, client dashboards, and high-performance e-commerce platforms.
+<h2 align="left">Hi 👋! I'm Udip Sharma 
 
-</div>
+Full Stack Web Developer | Graphics Designer | Ai Enthusiast</h2>
 
-<div align="center">
-
-📈 GitHub Activity & Status
-
-<!-- 📊 GitHub Stats & Cards - Corrected URLs -->
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dudip15%26show_icons%3Dtrue%26theme%3Dbuefy%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Udip's GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dudip15%26theme%3Dbuefy%26hide_border%3Dtrue" alt="Udip's GitHub Streak" />
-</p>
-
-<!-- 🌐 Top Languages Card - Corrected URL -->
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dudip15%26layout%3Dcompact%26langs_count%3D10%26theme%3Dbuefy%26hide_border%3Dtrue" alt="Udip's Top Languages" />
-</p>
-</div>
-
-🛠️ Core Skills & Expertise (Logos)
-
-Leveraging a strong foundation in the MERN stack and data persistence, I build robust, full-featured web solutions.
+###
 
 <div align="center">
-
-Category
-
-Technologies
-
-Frontend
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,html,css,js,responsive" alt="React, HTML, CSS, JavaScript, Responsive Design" />
-
-Backend/API
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,rest,jwt" alt="Node.js, Express.js, RESTful APIs, JWT Authentication" />
-
-Databases
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb,mysql" alt="MongoDB, MySQL" />
-
-Tools/DevOps
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,ci" alt="Git, GitHub, VS Code, CI/CD" />
-
-Data/Analytics
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,pandas,numpy" alt="Python, Pandas, NumPy" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-📌 Featured Projects
+###
 
-Here are a few highlights demonstrating my ability to handle full-stack complexity, real-time communication, and enterprise features.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-1. Twitter Clone
+###
 
-A real-time social media platform built on the MERN stack, focusing on secure user sessions and instant feed updates.
-
-Key Features: Post creation, real-time feed updates (live), secure user authentication.
-
-Tech Stack: MERN (MongoDB, Express, React, Node.js), JavaScript (ES6+), Secure Authentication (JWT).
-
-2. NepMulti Store Enterprise Website
-
-A comprehensive e-commerce platform featuring product listing, secure checkout, and a dedicated admin panel for inventory management.
-
-Key Features: Full e-commerce flow, efficient product/inventory management admin panel.
-
-Tech Stack: Node.js/Express Backend, MySQL Database, Responsive UI.
-
-3. End-to-End Chat App
-
-A secure, multi-user real-time messaging application designed for instant and reliable communication.
-
-Key Features: Direct and group chats, instant message delivery.
-
-Tech Stack: WebSockets (Socket.io), Secure Data Transmission.
-
-📫 Let's Connect
-
-I'm currently pursuing a Bachelor in Computer Engineering and actively seeking opportunities to contribute to challenging projects. Feel free to connect!
-
-LinkedIn: [udip-sharma-095289367]
-
-Email: sharmaudip15@gmail.com
-
-Resume/CV: [Link to your Resume PDF/Page on GitHub or other host]
-
-<div align="center">
-
-Made with ❤️ and Markdown.
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
