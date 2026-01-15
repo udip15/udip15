@@ -26,7 +26,7 @@ Full Stack Web Developer | Graphics Designer | Ai Enthusiast</h2>
 ---
 [![](https://visitcount.itsvg.in/api?id=udip15&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ###
 
